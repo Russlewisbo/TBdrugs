@@ -18,7 +18,7 @@ bibliography: anti-tb-drugs-references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Anti-Tuberculosis Agents {background-video="anti-tb-drugs-images/tb.mp4" background-video-muted="true" background-video-loop="true" background-color="#b20e10" background-opacity="0.5"}
+## Anti-Tuberculosis Antibiotics {background-video="anti-tb-drugs-images/tb.mp4" background-video-muted="true" background-video-loop="true" background-color="#b20e10" background-opacity="0.5"}
 
 <center>
 
@@ -59,12 +59,20 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## The global burden — Why this still matters
 
-<br>
-
+::::: columns
+::: {.column width="50%"}
 - Tuberculosis is the **leading infectious cause of death worldwide**, ahead of HIV/AIDS
 - \~**10.6 million** incident cases and \~**1.3 million** deaths per year (WHO Global TB Report)
 - \~**410,000** cases of MDR/RR-TB annually; only \~2 in 5 are diagnosed and treated
 - Drug resistance is the central driver of pharmacological complexity — and the reason this field has moved so fast
+:::
+
+::: {.column width="50%"}
+![](anti-tb-drugs-images/tb_clionic.jpg)
+:::
+:::::
+
+<br>
 
 ::: aside
 [@WHO2023gtr]
@@ -175,7 +183,7 @@ These genes are exactly what line-probe assays and targeted next-generation sequ
 - Rapid molecular diagnostics (Xpert MTB/RIF, targeted NGS) now guide drug selection within **days**, limiting empirical exposure to toxic second-line drugs
 
 ::: aside
-First, the pharmacology is necessary but not sufficient — the best regimen fails without adherence, and malabsorption is an under-recognised cause of acquired resistance in advanced HIV. Second, molecular diagnostics have transformed empirical prescribing: we can now detect rpoB (and increasingly fluoroquinolone and other) resistance within days, so we no longer have to expose patients to injectables and toxic orals while waiting weeks for phenotypic results. Rapid DST is the enabling technology behind targeted modern regimens[@Egelund2012].
+The best regimen fails without adherence, and malabsorption is an under-recognised cause of acquired resistance in advanced HIV. Second, molecular diagnostics have transformed empirical prescribing: we can now detect rpoB (and increasingly fluoroquinolone and other) resistance within days, so we no longer have to expose patients to injectables and toxic orals while waiting weeks for phenotypic results. Rapid DST is the enabling technology behind targeted modern regimens[@Egelund2012].
 :::
 
 # First-Line Antituberculous Drugs {background-color="#b20e10"}
@@ -192,7 +200,7 @@ First, the pharmacology is necessary but not sufficient — the best regimen fai
 | Ethambutol (E) | Inhibits arabinosyl transferase | *embB* | Optic neuritis |
 
 ::: aside
-This is the reference table for the section — I will unpack each row. Note that three of the four are bactericidal; ethambutol is bacteriostatic and serves mainly as the resistance-protecting companion. The mnemonic RIPE captures the standard intensive phase. Keep the resistance genes in mind — they are exactly what the molecular assays interrogate [@ATS2016; @Nahid2016DSTB].
+Note that three of the four are bactericidal; ethambutol is bacteriostatic and serves mainly as the resistance-protecting companion. The mnemonic RIPE captures the standard intensive phase. Keep the resistance genes in mind — they are exactly what the molecular assays interrogate [@ATS2016; @Nahid2016DSTB].
 :::
 
 ## Isoniazid — mechanism and activity
@@ -245,14 +253,10 @@ Acetylator status is a classic pharmacogenomic teaching point but has limited im
 - **Symptom-based monitoring** is essential; baseline/serial LFTs for higher-risk groups; **stop at symptom onset**
 
 ::: aside
-[@Saukkonen2006; @CDC2010INHliver]
+Biochemical monitoring alone is not protective — the severe cases are idiosyncratic and can occur despite normal recent LFTs — so patient education and prompt discontinuation at the first symptoms (nausea, anorexia, RUQ pain, jaundice) is the safety net. Baseline LFTs for those with liver disease, HIV on ART, alcohol use, pregnancy/postpartum. Continuing INH after symptom onset is what turns hepatitis into liver failure [@Saukkonen2006; @CDC2010INHliver].
 :::
 
-::: notes
-The take-home is that biochemical monitoring alone is not protective — the severe cases are idiosyncratic and can occur despite normal recent LFTs — so patient education and prompt discontinuation at the first symptoms (nausea, anorexia, RUQ pain, jaundice) is the safety net. Baseline LFTs for those with liver disease, HIV on ART, alcohol use, pregnancy/postpartum. Continuing INH after symptom onset is what turns hepatitis into liver failure.
-:::
-
-## Isoniazid — Neuropathy and Other Toxicity
+## Isoniazid — neuropathy and other toxicity
 
 <br>
 
@@ -261,7 +265,7 @@ The take-home is that biochemical monitoring alone is not protective — the sev
 - CNS effects: memory change, psychosis, seizures (overdose → treat with **high-dose pyridoxine**)
 - Rare: lupus-like syndrome, positive ANA
 
-::: notes
+::: aside
 Pyridoxine is cheap and prevents the commonest neurotoxicity — give it routinely. In massive INH overdose (seizures, metabolic acidosis, coma) the antidote is gram-for-gram pyridoxine. Remember INH can cause optic neuropathy that mimics ethambutol toxicity when both are used together — a diagnostic trap.
 :::
 
