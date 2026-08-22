@@ -221,7 +221,7 @@ Isoniazid is the fastest killer of dividing bacilli — it drives the early drop
 The katG vs inhA distinction is clinically actionable. inhA mutations give low-level INH resistance and — importantly — cross-resistance to ethionamide/prothionamide, so an inhA-mutant strain undermines two drugs at once. katG mutations give high-level resistance but leave ethionamide active. Molecular assays that report the specific mutation therefore inform whether high-dose INH or ethionamide might still contribute. Hr-TB (INH-resistant, rifampin-susceptible) is common and has a dedicated regimen — do not just drop INH and carry on [@Musser1996; @Musser1995].
 :::
 
-## Isoniazid — Pharmacology
+## Isoniazid — pharmacology
 
 <br>
 
@@ -231,11 +231,11 @@ The katG vs inhA distinction is clinically actionable. inhA mutations give low-l
 - No renal dose adjustment; caution in hepatic disease
 - Ascorbic acid (vitamin C) can inactivate INH suspensions — avoid in compounded syrups
 
-::: notes
+::: aside
 Acetylator status is a classic pharmacogenomic teaching point but has limited impact on daily-therapy outcomes because trough levels stay above MIC either way. It matters more for toxicity (slow acetylators → higher levels → more neuropathy) and for intermittent regimens. Good CNS penetration makes INH valuable in TB meningitis. The vitamin C point is a practical pediatric-compounding pitfall.
 :::
 
-## Isoniazid — Hepatotoxicity
+## Isoniazid — hepatotoxicity
 
 <br>
 
