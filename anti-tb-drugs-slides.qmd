@@ -278,11 +278,11 @@ Pyridoxine is cheap and prevents the commonest neurotoxicity — give it routine
 - Adult dose **5 mg/kg/day (max 300 mg)**; 15 mg/kg (max 900 mg) for intermittent regimens
 - Available with rifampin ± PZA as fixed-dose combinations (improve adherence, prevent monotherapy)
 
-::: notes
+::: aside
 INH is a modest enzyme inhibitor — the opposite of rifampin — so the interaction set is smaller but real, especially antiepileptics in patients with seizure disorders. Fixed-dose combinations (Rifater, Rifamate) are worth flagging: they reduce pill burden and, importantly, make inadvertent monotherapy impossible, which protects against resistance.
 :::
 
-## Rifampin — Mechanism and Activity
+## Rifampin — Mechanism and activity
 
 <br>
 
@@ -291,11 +291,11 @@ INH is a modest enzyme inhibitor — the opposite of rifampin — so the interac
 - The **sterilizing backbone**: rifampin is why therapy could be shortened to 6 months
 - MIC 0.005–0.2 µg/mL; sputum conversion \~2 weeks faster in rifampin-containing regimens
 
-::: notes
+::: aside
 If you remember one thing about rifampin: it is the drug that kills persisters and thereby prevents relapse. Its sterilizing activity is the single most important determinant of regimen duration — lose rifampin (RR-TB) and duration jumps from months to, historically, well over a year. That is why rifampin resistance is the sentinel event that reclassifies a case as MDR-equivalent.
 :::
 
-## Rifampin — Resistance and the Higher-Dose Question
+## Rifampin — Resistance and the higher-dose question
 
 <br>
 
@@ -305,14 +305,10 @@ If you remember one thing about rifampin: it is the drug that kills persisters a
 - Trials of **high-dose rifampin (up to 35 mg/kg)** show good tolerability and steeper kill; not yet standard
 
 ::: aside
-[@vanIngen2011]
+The rpoB hot-spot is exactly what molecular assays target, giving results in hours. On dosing: the historical 600 mg cap was set for cost and old toxicity fears, not PK optimization, and there is now good evidence that higher exposures increase bactericidal and sterilizing activity with acceptable safety. High-dose rifampin is an active research front (e.g. shortening DS-TB further); it is not yet guideline-standard but expect movement. A subset of rpoB mutants remain rifabutin-susceptible — the "rifampin-resistant/rifabutin-susceptible" phenotype — of uncertain clinical exploitability [@vanIngen2011].
 :::
 
-::: notes
-The rpoB hot-spot is exactly what molecular assays target, giving results in hours. On dosing: the historical 600 mg cap was set for cost and old toxicity fears, not PK optimization, and there is now good evidence that higher exposures increase bactericidal and sterilizing activity with acceptable safety. High-dose rifampin is an active research front (e.g. shortening DS-TB further); it is not yet guideline-standard but expect movement. A subset of rpoB mutants remain rifabutin-susceptible — the "rifampin-resistant/rifabutin-susceptible" phenotype — of uncertain clinical exploitability.
-:::
-
-## Rifampin — Pharmacology and the CYP Problem
+## Rifampin — Pharmacology and the CYP problem
 
 <br>
 
@@ -321,11 +317,11 @@ The rpoB hot-spot is exactly what molecular assays target, giving results in hou
 - Potent inducer of **CYP3A4, 2C9, 2C19, P-glycoprotein, UGT** — interacts with **\>100 drugs**
 - Orange-red discoloration of secretions (urine, tears, sweat, contact lenses) — warn patients
 
-::: notes
+::: aside
 Rifampin's CYP induction is the defining practical liability of the whole class. It is a broad, potent inducer that lowers exposure to a huge list of co-medications — and the effect persists for weeks after stopping. The orange secretions are harmless but tell you the patient is taking the drug (and will stain soft contact lenses). We will hit the ARV interactions specifically in the HIV section.
 :::
 
-## Rifampin — Key Interactions
+## Rifampin — Key interactions
 
 <br>
 
@@ -335,14 +331,10 @@ Rifampin's CYP induction is the defining practical liability of the whole class.
 - Adult dose **10 mg/kg/day (max 600 mg)**
 
 ::: aside
-[@Venkatesan1992]
+The clinically dangerous interactions to internalise: oral contraceptive failure (counsel on backup contraception), warfarin/DOAC under-anticoagulation, azole antifungal failure, and the antiretroviral interactions that force rifabutin substitution with protease inhibitors. Dolutegravir needs dose doubling with rifampin. The list is long; the safe habit is to check every co-medication against a rifamycin interaction resource at the start of therapy [@Venkatesan1992].
 :::
 
-::: notes
-The clinically dangerous interactions to internalise: oral contraceptive failure (counsel on backup contraception), warfarin/DOAC under-anticoagulation, azole antifungal failure, and the antiretroviral interactions that force rifabutin substitution with protease inhibitors. Dolutegravir needs dose doubling with rifampin. The list is long; the safe habit is to check every co-medication against a rifamycin interaction resource at the start of therapy.
-:::
-
-## Pyrazinamide — Mechanism and Niche
+## Pyrazinamide — Mechanism and niche
 
 <br>
 
@@ -352,14 +344,10 @@ The clinically dangerous interactions to internalise: oral contraceptive failure
 - Essential in the first 2 months: without PZA, relapse rates are unacceptable
 
 ::: aside
-[@Scorpio1997]
+Pyrazinamide is the population-specialist par excellence — it does almost nothing except kill acid-environment intracellular persisters, and that niche is exactly what makes it a sterilizing drug that permitted 6-month therapy. Resistance is via pncA (loss of activation). Nearly half of MDR isolates are also PZA-resistant, which complicates MDR regimen design and is one reason PZA is not assumed active in MDR-TB without DST [@Scorpio1997].
 :::
 
-::: notes
-Pyrazinamide is the population-specialist par excellence — it does almost nothing except kill acid-environment intracellular persisters, and that niche is exactly what makes it a sterilizing drug that permitted 6-month therapy. Resistance is via pncA (loss of activation). Nearly half of MDR isolates are also PZA-resistant, which complicates MDR regimen design and is one reason PZA is not assumed active in MDR-TB without DST.
-:::
-
-## Pyrazinamide — Toxicity and Dosing
+## Pyrazinamide — Toxicity and dosing
 
 <br>
 
@@ -368,11 +356,11 @@ Pyrazinamide is the population-specialist par excellence — it does almost noth
 - Rifampin + PZA for LTBI abandoned — unacceptable severe hepatotoxicity
 - Dose **20–25 mg/kg/day (max \~2 g)**; renally cleared → **reduce/dose after dialysis**
 
-::: notes
+::: aside
 PZA is now recognised as the biggest hepatotoxic contributor in the RIPE combination — flag that when a patient on RIPE develops hepatitis. The hyperuricemia is near-universal biochemically but symptomatic gout is uncommon except in the predisposed; PZA-induced arthralgia is usually non-gouty and manageable. The rifampin–PZA LTBI regimen is a cautionary tale — good microbiology, unacceptable liver toxicity — and is no longer used.
 :::
 
-## Ethambutol — Mechanism and Role
+## Ethambutol — Mechanism and role
 
 <br>
 
@@ -382,14 +370,10 @@ PZA is now recognised as the biggest hepatotoxic contributor in the RIPE combina
 - Dropped once INH/rifampin susceptibility confirmed
 
 ::: aside
-[@Belanger1996; @Alcaide1997]
+Ethambutol is included in the intensive phase not for its own killing power but as insurance: if the strain is unknowingly INH-resistant, ethambutol prevents the patient from being effectively on rifampin monotherapy while susceptibilities are pending. Once you confirm INH and rifampin susceptibility, ethambutol has done its job and can be stopped. Resistance is via embB [@Belanger1996; @Alcaide1997].
 :::
 
-::: notes
-Ethambutol is included in the intensive phase not for its own killing power but as insurance: if the strain is unknowingly INH-resistant, ethambutol prevents the patient from being effectively on rifampin monotherapy while susceptibilities are pending. Once you confirm INH and rifampin susceptibility, ethambutol has done its job and can be stopped. Resistance is via embB.
-:::
-
-## Ethambutol — Optic Neuritis
+## Ethambutol — Optic neuritis
 
 <br>
 
@@ -398,11 +382,11 @@ Ethambutol is included in the intensive phase not for its own killing power but 
 - More frequent at 25 mg/kg than 15 mg/kg; usually slowly reversible if caught early
 - **Baseline and monthly** acuity + colour testing; instruct patient to **stop and report** new visual symptoms
 
-::: notes
-The one toxicity you must counsel on and monitor. Colour vision (red-green) often changes first. Risk rises with higher doses, longer therapy, and renal impairment (renally cleared — adjust the dose in renal failure). Recovery depends on early discontinuation, so patient instruction to stop the drug and seek testing at the first visual change is the key safety behaviour. In older patients with baseline eye disease, distinguishing ethambutol toxicity from cataract can be difficult.
+::: aside
+Colour vision (red-green) often changes first. Risk rises with higher doses, longer therapy, and renal impairment (renally cleared — adjust the dose in renal failure). Recovery depends on early discontinuation, so patient instruction to stop the drug and seek testing at the first visual change is the key safety behaviour. In older patients with baseline eye disease, distinguishing ethambutol toxicity from cataract can be difficult.
 :::
 
-## First-Line Dosing — Quick Reference
+## First-line dosing — Quick reference
 
 <br>
 
@@ -415,11 +399,11 @@ The one toxicity you must counsel on and monitor. Colour vision (red-green) ofte
 | Rifabutin    | 5 mg/kg (\~300 mg)            | HIV/PI settings          |
 | Rifapentine  | 1200 mg (4-mo regimen, daily) | with food                |
 
-::: notes
+::: aside
 A single practical reference — these are the doses to have at your fingertips. Two recurring themes visible in the table: the renally cleared drugs (PZA, ethambutol) need adjustment in renal impairment, and the rifamycins have opposite food requirements (rifampin empty stomach, rifapentine with food). Pyridoxine accompanies isoniazid. Weight-based dosing means re-checking as the patient's weight recovers during treatment. Second-line and novel-agent dosing was given on the respective drug slides.
 :::
 
-## The Standard Regimen for Drug-Susceptible TB
+## The standard regimen for drug-susceptible TB
 
 <br>
 
@@ -430,14 +414,10 @@ A single practical reference — these are the doses to have at your fingertips.
 - Extend continuation phase (to 7 months total) for cavitary disease with positive 2-month culture
 
 ::: aside
-[@Nahid2016DSTB]
+RIPE covers cavity (H), intracellular acid (Z), and persister (R) populations simultaneously, with E as resistance insurance. The 2+4 structure and the rifampin/isoniazid continuation phase reflect that once the fast-dividing burden is gone, you still need months of sterilizing R to prevent relapse. This is the comparator against which every shortening trial is judged [@Nahid2016DSTB].
 :::
 
-::: notes
-This is the regimen every graduate knows — but frame it through the population model: RIPE covers cavity (H), intracellular acid (Z), and persister (R) populations simultaneously, with E as resistance insurance. The 2+4 structure and the rifampin/isoniazid continuation phase reflect that once the fast-dividing burden is gone, you still need months of sterilizing R to prevent relapse. This is the comparator against which every shortening trial is judged.
-:::
-
-## Isoniazid-Resistant, Rifampin-Susceptible TB (Hr-TB)
+## Isoniazid-resistant, rifampin-susceptible TB (Hr-TB)
 
 <br>
 
@@ -447,14 +427,10 @@ This is the regimen every graduate knows — but frame it through the population
 - Confirms the principle: tailor to the specific resistance pattern, protect the rifamycin
 
 ::: aside
-[@Nahid2019drtb]
+Hr-TB is a common trap. Because molecular assays often report rifampin status first, a strain can be flagged rifampin-susceptible while INH resistance is missed — leaving the patient functionally under-treated if you just run standard RIPE. The recommended approach adds a fluoroquinolone (levofloxacin) to a rifampin-based backbone for 6 months. The teaching point: INH resistance is not a footnote — it has its own regimen, and getting it wrong risks amplifying to MDR [@Nahid2019drtb].
 :::
 
-::: notes
-Hr-TB is a common trap. Because molecular assays often report rifampin status first, a strain can be flagged rifampin-susceptible while INH resistance is missed — leaving the patient functionally under-treated if you just run standard RIPE. The recommended approach adds a fluoroquinolone (levofloxacin) to a rifampin-based backbone for 6 months. The teaching point: INH resistance is not a footnote — it has its own regimen, and getting it wrong risks amplifying to MDR.
-:::
-
-## Monitoring the Response to Therapy
+## Monitoring the response to therapy
 
 <br>
 
@@ -463,7 +439,7 @@ Hr-TB is a common trap. Because molecular assays often report rifampin status fi
 - Monthly clinical review, adherence support, weight-based dose review
 - Watch for the drug-specific toxicities: hepatitis, neuropathy, optic/ocular, QT, cytopenias
 
-::: notes
+::: aside
 The 2-month culture is the key milestone: persistent culture-positivity at 2 months (especially with baseline cavitation) predicts relapse and drives extension of the continuation phase to 7 months. Monitoring is otherwise clinical and toxicity-directed — there is no need for routine biochemical monitoring in low-risk patients, but there is every reason for structured monthly review and symptom-triggered testing. Re-check weight and adjust weight-based doses as patients recover.
 :::
 
@@ -479,14 +455,10 @@ The 2-month culture is the key milestone: persistent culture-positivity at 2 mon
 - High-dose daily **rifapentine** (higher rifamycin exposure) + moxifloxacin's sterilizing activity = 2 months saved
 
 ::: aside
-[@Dorman2021]
+This is the first successful shortening of DS-TB therapy in nearly 40 years, and it validates the sterilizing-activity thesis: swap rifampin for high-exposure rifapentine and add moxifloxacin, and you can drop two months without more relapse. Note moxifloxacin, not levofloxacin — the trial used moxifloxacin specifically. It is a genuine option now, not experimental [@Dorman2021].
 :::
 
-::: notes
-This is the first successful shortening of DS-TB therapy in nearly 40 years, and it validates the sterilizing-activity thesis: swap rifampin for high-exposure rifapentine and add moxifloxacin, and you can drop two months without more relapse. Note moxifloxacin, not levofloxacin — the trial used moxifloxacin specifically. It is a genuine option now, not experimental.
-:::
-
-## The 4-Month Regimen in Practice
+## The 4-Month regimen in practice
 
 <br>
 
@@ -496,14 +468,10 @@ This is the first successful shortening of DS-TB therapy in nearly 40 years, and
 - Caveats: requires confirmed moxifloxacin & rifamycin susceptibility; rifapentine taken **with food**; not for HIV on incompatible ART, pregnancy, or extrapulmonary/severe disease per label
 
 ::: aside
-[@Carr2022; @Saukkonen2025]
+Practical eligibility matters: it is for drug-susceptible pulmonary disease with documented fluoroquinolone susceptibility, weight and age thresholds apply, and rifapentine must be taken with a meal for adequate absorption (opposite of rifampin). The 2025 guideline also endorses a shorter 4-month regimen for children with non-severe disease — a separate, welcome development. For our European practice, uptake varies, but knowing the eligibility criteria is exam- and clinic-relevant [@Carr2022; @Saukkonen2025].
 :::
 
-::: notes
-Practical eligibility matters: it is for drug-susceptible pulmonary disease with documented fluoroquinolone susceptibility, weight and age thresholds apply, and rifapentine must be taken with a meal for adequate absorption (opposite of rifampin). The 2025 guideline also endorses a shorter 4-month regimen for children with non-severe disease — a separate, welcome development. For our European practice, uptake varies, but knowing the eligibility criteria is exam- and clinic-relevant.
-:::
-
-# Rifamycins Beyond Rifampin {background-color="#b20e10"}
+# Rifamycins **B**eyond Rifampin {background-color="#b20e10"}
 
 ## Rifabutin
 
@@ -515,11 +483,7 @@ Practical eligibility matters: it is for drug-susceptible pulmonary disease with
 - Toxicity: **uveitis** (with clarithromycin/ritonavir/fluconazole), neutropenia, pseudojaundice, orange secretions
 
 ::: aside
-[@Blaschke1996; @OBrien1987]
-:::
-
-::: notes
-Rifabutin's niche is the HIV patient on a protease-inhibitor regimen: it retains rifamycin efficacy while inducing CYP much less, so PIs remain usable with dose adjustment. Watch for uveitis — it is dose-related and potentiated by CYP inhibitors that raise rifabutin levels (clarithromycin, ritonavir, azoles). The rifampin-resistant/rifabutin-susceptible phenotype exists but its clinical exploitation is uncertain.
+Rifabutin's niche is the HIV patient on a protease-inhibitor regimen: it retains rifamycin efficacy while inducing CYP much less, so PIs remain usable with dose adjustment. Watch for uveitis — it is dose-related and potentiated by CYP inhibitors that raise rifabutin levels (clarithromycin, ritonavir, azoles). The rifampin-resistant/rifabutin-susceptible phenotype exists but its clinical exploitation is uncertain [@Carr2022; @Saukkonen2025].
 :::
 
 ## Rifapentine
@@ -532,30 +496,25 @@ Rifabutin's niche is the HIV patient on a protease-inhibitor regimen: it retains
 - Now also the rifamycin in the **4-month DS-TB** regimen (daily, high dose)
 
 ::: aside
-[@Sterling2011; @Alfarisi2017]
+Rifapentine has had two act. First, once-weekly 3HP transformed latent TB treatment — 12 doses, directly observed or self-administered, with far better completion than 9 months of INH. Second, at daily high dose it is the engine of the 4-month active-TB regimen. The food effect is the mirror image of rifampin — rifapentine must be taken with food. It is contraindicated in HIV patients on PIs/NNRTIs because of interactions and rifamycin monoresistance risk [@Sterling2011; @Alfarisi2017].
 :::
 
-::: notes
-Rifapentine has had two act. First, once-weekly 3HP transformed latent TB treatment — 12 doses, directly observed or self-administered, with far better completion than 9 months of INH. Second, at daily high dose it is the engine of the 4-month active-TB regimen. The food effect is the mirror image of rifampin — rifapentine must be taken with food. It is contraindicated in HIV patients on PIs/NNRTIs because of interactions and rifamycin monoresistance risk.
-:::
-
-## Latent TB Infection — Rifamycin-Preferred Now
+## Latent TB infection — Rifamycin-preferred now
 
 <br>
 
 - Preferred short regimens (all rifamycin-based, better completion, less hepatotoxicity than 9H):
+
   - **3HP** — weekly rifapentine + INH × 12 weeks
   - **4R** — daily rifampin × 4 months
   - **3HR** — daily rifampin + INH × 3 months
+
 - 6–9 months of INH monotherapy is now a fallback, not first choice
+
 - Screen for and **exclude active TB** before treating latent infection
 
 ::: aside
-[@Sterling2011; @Borisov2018]
-:::
-
-::: notes
-Even though this is a drug-treatment lecture centred on active disease, specialists prescribe LTBI therapy constantly and the field has shifted decisively to shorter rifamycin-based regimens (3HP, 4R, 3HR) because they finish and are less hepatotoxic than the old 9 months of isoniazid. The non-negotiable safety step is excluding active disease first — treating active TB as if it were latent is monotherapy and breeds resistance. Rifamycin interactions still apply, so review co-medications.
+Even though this is a drug-treatment lecture centred on active disease, specialists prescribe LTBI therapy constantly and the field has shifted decisively to shorter rifamycin-based regimens (3HP, 4R, 3HR) because they finish and are less hepatotoxic than the old 9 months of isoniazid. The non-negotiable safety step is excluding active disease first — treating active TB as if it were latent is monotherapy and breeds resistance. Rifamycin interactions still apply, so review co-medications [@Sterling2011; @Borisov2018].
 :::
 
 # Second-Line and Repurposed Agents {background-color="#b20e10"}
