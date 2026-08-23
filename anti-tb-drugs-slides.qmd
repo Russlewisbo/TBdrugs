@@ -445,7 +445,7 @@ The 2-month culture is the key milestone: persistent culture-positivity at 2 mon
 
 # Shortening Therapy: The 4-Month Regimen {background-color="#b20e10"}
 
-## Study 31 — A 4-Month Rifapentine–Moxifloxacin Regimen
+## Study 31 — A 4-Month rifapentine–Mmxifloxacin regimen
 
 <br>
 
@@ -496,7 +496,7 @@ Rifabutin's niche is the HIV patient on a protease-inhibitor regimen: it retains
 - Now also the rifamycin in the **4-month DS-TB** regimen (daily, high dose)
 
 ::: aside
-Rifapentine has had two act. First, once-weekly 3HP transformed latent TB treatment — 12 doses, directly observed or self-administered, with far better completion than 9 months of INH. Second, at daily high dose it is the engine of the 4-month active-TB regimen. The food effect is the mirror image of rifampin — rifapentine must be taken with food. It is contraindicated in HIV patients on PIs/NNRTIs because of interactions and rifamycin monoresistance risk [@Sterling2011; @Alfarisi2017].
+Rifapentine has had two acts. First, once-weekly 3HP transformed latent TB treatment — 12 doses, directly observed or self-administered, with far better completion than 9 months of INH. Second, at daily high dose it is the engine of the 4-month active-TB regimen. The food effect is the mirror image of rifampin — rifapentine must be taken with food. It is contraindicated in HIV patients on PIs/NNRTIs because of interactions and rifamycin monoresistance risk [@Sterling2011; @Alfarisi2017].
 :::
 
 ## Latent TB infection — Rifamycin-preferred now
@@ -519,7 +519,7 @@ Even though this is a drug-treatment lecture centred on active disease, speciali
 
 # Second-Line and Repurposed Agents {background-color="#b20e10"}
 
-## Fluoroquinolones — The Backbone of MDR Oral Therapy
+## Fluoroquinolones — The backbone of MDR oral therapy
 
 <br>
 
@@ -529,14 +529,10 @@ Even though this is a drug-treatment lecture centred on active disease, speciali
 - Doses: levofloxacin 750–1000 mg/day; moxifloxacin 400 mg/day (higher for CNS/elevated MIC)
 
 ::: aside
-[@Ginsburg2003; @Nahid2019drtb]
+Fluoroquinolones are the single most important second-line class and are now core (Group A) drugs in modern regimens. Specifically moxifloxacin and levofloxacin — the older quinolones lack the potency and should not be counted as effective. Because FQ resistance moves a case to pre-XDR and knocks out a Group A drug, FQ susceptibility testing (molecular gyrA and phenotypic) is critical before building a regimen. A practical hazard: empirical fluoroquinolones for "pneumonia" partially treat unrecognised TB and select FQ resistance — a real problem when TB is the missed diagnosis [@Ginsburg2003; @Nahid2019drtb].
 :::
 
-::: notes
-Fluoroquinolones are the single most important second-line class and are now core (Group A) drugs in modern regimens. Emphasise moxifloxacin and levofloxacin only — the older quinolones lack the potency and should not be counted as effective. Because FQ resistance moves a case to pre-XDR and knocks out a Group A drug, FQ susceptibility testing (molecular gyrA and phenotypic) is critical before building a regimen. A practical hazard: empirical fluoroquinolones for "pneumonia" partially treat unrecognised TB and select FQ resistance — a real problem when TB is the missed diagnosis.
-:::
-
-## Fluoroquinolones — Safety
+## Fluoroquinolones — safety
 
 <br>
 
@@ -545,11 +541,11 @@ Fluoroquinolones are the single most important second-line class and are now cor
 - Avoid in pregnancy where alternatives exist; renal dose-adjust levofloxacin (not moxifloxacin)
 - Separate from divalent cations (antacids) by ≥2 h — chelation reduces absorption
 
-::: notes
+::: aside
 The QT signal is the one that shapes modern regimen safety because MDR regimens stack multiple QT-prolonging drugs (FQ + bedaquiline + clofazimine). We will address the combined QT stewardship problem later. Levofloxacin is renally cleared (dose-adjust); moxifloxacin is not, but moxifloxacin prolongs QT more. The antacid chelation interaction is a common cause of subtherapeutic exposure.
 :::
 
-## Linezolid — A Cornerstone Oxazolidinone
+## Linezolid — A cornerstone oxazolidinone
 
 <br>
 
@@ -559,14 +555,10 @@ The QT signal is the one that shapes modern regimen safety because MDR regimens 
 - TB dose **600 mg once daily** (not the 600 mg **twice** daily used for bacterial infection)
 
 ::: aside
-[@Lee2012; @Nahid2019drtb]
+Linezolid's promotion from salvage drug to Group A cornerstone is one of the big shifts. It is the "L" in BPaL. The dosing distinction is a common error: for TB we use 600 mg once daily to limit cumulative toxicity, not the twice-daily dosing used for resistant gram-positives. Its inclusion is why regimens could drop the old toxic bacteriostatics [@Lee2012; @Nahid2019drtb].
 :::
 
-::: notes
-Linezolid's promotion from salvage drug to Group A cornerstone is one of the big shifts. It is the "L" in BPaL. The dosing distinction is a common error: for TB we use 600 mg once daily to limit cumulative toxicity, not the twice-daily dosing used for resistant gram-positives. Its inclusion is why regimens could drop the old toxic bacteriostatics.
-:::
-
-## Linezolid — Toxicity Drives Dosing
+## Linezolid — Toxicity drives dosing
 
 <br>
 
@@ -578,14 +570,10 @@ Linezolid's promotion from salvage drug to Group A cornerstone is one of the big
 - ZeNix trial optimized **dose/duration** to reduce toxicity while preserving efficacy
 
 ::: aside
-[@Conradie2022zenix]
+Linezolid is effective but its long-course toxicity is the limiting factor, and peripheral neuropathy in particular can persist after stopping. The ZeNix trial is the practice-changer here: it showed that a shorter/lower linezolid exposure (e.g. 600 mg for 26 weeks, or de-escalation) within BPaL retains efficacy with substantially less neuropathy and myelosuppression — so current practice favours the optimized linezolid exposure rather than prolonged high-dose. Monitor CBC and for neuropathy; watch serotonergic co-medication [@Conradie2022zenix].
 :::
 
-::: notes
-Linezolid is effective but its long-course toxicity is the limiting factor, and peripheral neuropathy in particular can persist after stopping. The ZeNix trial is the practice-changer here: it showed that a shorter/lower linezolid exposure (e.g. 600 mg for 26 weeks, or de-escalation) within BPaL retains efficacy with substantially less neuropathy and myelosuppression — so current practice favours the optimized linezolid exposure rather than prolonged high-dose. Monitor CBC and for neuropathy; watch serotonergic co-medication.
-:::
-
-## Injectable Agents — From Core to Salvage
+## Injectable agents — From core to salvage
 
 <br>
 
@@ -595,14 +583,10 @@ Linezolid is effective but its long-course toxicity is the limiting factor, and 
 - **Amikacin** preferred when an injectable is unavoidable (levels available); streptomycin second-line
 
 ::: aside
-[@Nahid2019drtb]
+This is one of the most important "what changed" messages. The injectables are no longer part of standard MDR therapy — the move to all-oral regimens (bedaquiline replacing the injectable) was driven precisely by the irreversible hearing loss and renal toxicity these drugs caused. They persist only as salvage options for specific resistance patterns, ideally amikacin with TDM. If a trainee proposes an injectable-containing MDR regimen as first choice, that is out of date [@Nahid2019drtb].
 :::
 
-::: notes
-This is one of the most important "what changed" messages. The injectables are no longer part of standard MDR therapy — the move to all-oral regimens (bedaquiline replacing the injectable) was driven precisely by the irreversible hearing loss and renal toxicity these drugs caused. They persist only as salvage options for specific resistance patterns, ideally amikacin with TDM. If a trainee proposes an injectable-containing MDR regimen as first choice, that is out of date.
-:::
-
-## A Note on Streptomycin
+## A note on streptomycin
 
 <br>
 
@@ -611,11 +595,11 @@ This is one of the most important "what changed" messages. The injectables are n
 - Resistance via *rpsL* / 16S rRNA; **not** cross-resistant with amikacin/kanamycin
 - Retains historical and DST relevance; vestibular \> auditory/renal toxicity; category D in pregnancy
 
-::: notes
+::: aside
 Streptomycin is largely of historical and susceptibility-testing interest now, but worth a slide because it still appears on DST panels and its cross-resistance pattern is a classic exam point: streptomycin resistance does not predict amikacin resistance, so a streptomycin-resistant strain may still be amikacin-susceptible (unless prior kanamycin/amikacin exposure). It is more vestibulotoxic and less nephro/ototoxic than the other aminoglycosides, and it is teratogenic (category D).
 :::
 
-## Older Oral Agents — Now Rarely Needed
+## Older oral agents — Now rarely needed
 
 <br>
 
@@ -624,12 +608,8 @@ Streptomycin is largely of historical and susceptibility-testing interest now, b
 - **Para-aminosalicylic acid (PAS)** — folate pathway; severe GI intolerance, hypothyroidism
 - Displaced by linezolid, bedaquiline, and companions — used only when better drugs fail or are unavailable
 
-::: aside
-[@Nahid2019drtb]
-:::
-
 ::: notes
-These are the drugs the new regimens let us largely retire. Cycloserine's neuropsychiatric toxicity (contraindicated with seizure disorder and severe depression) and mandatory TDM make it difficult; ethionamide's GI intolerance and hypothyroidism (check TSH, worse with PAS) limit adherence; PAS is similar. The inhA cross-resistance point is worth repeating: an inhA-mutant strain is resistant to both INH and ethionamide. Know these for completeness and for salvage regimens, but they are no longer front-line.
+These are the drugs the new regimens let us largely retire. Cycloserine's neuropsychiatric toxicity (contraindicated with seizure disorder and severe depression) and mandatory TDM make it difficult; ethionamide's GI intolerance and hypothyroidism (check TSH, worse with PAS) limit adherence; PAS is similar. The inhA cross-resistance point is worth repeating: an inhA-mutant strain is resistant to both INH and ethionamide. Know these for completeness and for salvage regimens, but they are no longer front-line [@Nahid2019drtb].
 :::
 
 ## Clofazimine and the β-Lactams
@@ -642,16 +622,12 @@ These are the drugs the new regimens let us largely retire. Cycloserine's neurop
 - β-lactams are generally poor against intracellular bacilli
 
 ::: aside
-[@DeLorenzo2013]
-:::
-
-::: notes
-Clofazimine is a useful Group B companion but note two things: it adds to the QT burden, and — importantly — efflux-pump mutations (Rv0678) can confer cross-resistance to both clofazimine and bedaquiline, so pairing them is not free of interaction at the resistance level. Meropenem-clavulanate is a clever exploitation of clavulanate against the mycobacterial beta-lactamase, but it is IV, cumbersome, and reserved for difficult resistance patterns. These are supporting players, not headliners.
+Clofazimine is a useful Group B companion but note two things: it adds to the QT burden, and — importantly — efflux-pump mutations (Rv0678) can confer cross-resistance to both clofazimine and bedaquiline, so pairing them is not free of interaction at the resistance level. Meropenem-clavulanate is a clever exploitation of clavulanate against the mycobacterial beta-lactamase, but it is IV, cumbersome, and reserved for difficult resistance patterns. These are supporting players, not headliners [@DeLorenzo2013].
 :::
 
 # The Novel Agents {background-color="#b20e10"}
 
-## Bedaquiline — A New Mechanism
+## Bedaquiline — A new mechanism
 
 <br>
 
@@ -661,14 +637,10 @@ Clofazimine is a useful Group B companion but note two things: it adds to the QT
 - Dose: 400 mg daily × 2 weeks, then 200 mg three times weekly (or weight-based short-course dosing)
 
 ::: aside
-[@Andries2005; @VanHeeswijk2014]
+Bedaquiline is the drug that made all-oral MDR therapy possible — it replaced the injectable. Novel target (ATP synthase), so no cross-resistance with existing classes. The extraordinarily long half-life means it persists for months after stopping, which has implications for resistance if a companion drug fails late. Being CYP3A4-metabolized, its levels fall with rifampin (avoid) and rise with strong inhibitors [@Andries2005; @VanHeeswijk2014].
 :::
 
-::: notes
-Bedaquiline is the drug that made all-oral MDR therapy possible — it replaced the injectable. Novel target (ATP synthase), so no cross-resistance with existing classes. The extraordinarily long half-life means it persists for months after stopping, which has implications for resistance if a companion drug fails late. Being CYP3A4-metabolized, its levels fall with rifampin (avoid) and rise with strong inhibitors.
-:::
-
-## Bedaquiline — Safety and the QT Story
+## Bedaquiline — Safety and the QT story
 
 <br>
 
@@ -678,14 +650,10 @@ Bedaquiline is the drug that made all-oral MDR therapy possible — it replaced 
 - Baseline and serial **ECG + electrolytes (K⁺, Mg²⁺, Ca²⁺)**; correct before and during therapy
 
 ::: aside
-[@Diacon2009; @Avorn2013]
+The mortality signal in the small early trial drove the black box, but it has not held up in the much larger real-world experience, and bedaquiline is now a first-choice drug endorsed by WHO. The genuine ongoing concern is QT — manageable with ECG and electrolyte monitoring, but real when stacked with other QT-prolonging drugs, which is the norm in MDR regimens. Correct hypokalemia/hypomagnesemia before starting [@Diacon2009; @Avorn2013].
 :::
 
-::: notes
-The mortality signal in the small early trial drove the black box, but it has not held up in the much larger real-world experience, and bedaquiline is now a first-choice drug endorsed by WHO. The genuine ongoing concern is QT — manageable with ECG and electrolyte monitoring, but real when stacked with other QT-prolonging drugs, which is the norm in MDR regimens. Correct hypokalemia/hypomagnesemia before starting.
-:::
-
-## Pretomanid and Delamanid — The Nitroimidazoles
+## Pretomanid and delamanid — The Nitroimidazoles
 
 <br>
 
@@ -695,16 +663,12 @@ The mortality signal in the small early trial drove the black box, but it has no
 - **Delamanid** — QT prolongation; efficacy signal weaker in phase 3; combinable with bedaquiline
 
 ::: aside
-[@Gils2022; @Gler2012]
-:::
-
-::: notes
-Distinguish the two clearly. Pretomanid is licensed strictly within the BPaL(M) combination — it is not a drug you mix and match, and it should not be used outside its studied regimens. Delamanid came first (EMA conditional approval) but its phase 3 data were equivocal (the endTB observational work suggests limited added value on top of strong Group A drugs), and it prolongs QT. Both are rifampin-interaction-light because they do not induce CYP the way rifamycins do — useful in HIV co-treatment. Their exact mechanism remains incompletely defined but centres on radical generation and mycolic acid/respiration disruption.
+Pretomanid is licensed strictly within the BPaL(M) combination — it is not a drug you mix and match, and it should not be used outside its studied regimens. Delamanid came first (EMA conditional approval) but its phase 3 data were equivocal (the endTB observational work suggests limited added value on top of strong Group A drugs), and it prolongs QT. Both are rifampin-interaction-light because they do not induce CYP the way rifamycins do — useful in HIV co-treatment. Their exact mechanism remains incompletely defined but centres on radical generation and mycolic acid/respiration disruption [@Diacon2009; @Avorn2013].
 :::
 
 # Modern Regimens for Drug-Resistant TB {background-color="#b20e10"}
 
-## BPaL — The Nix-TB Breakthrough
+## BPaL — The Nix-TB breakthrough
 
 <br>
 
@@ -714,14 +678,10 @@ Distinguish the two clearly. Pretomanid is licensed strictly within the BPaL(M) 
 - FDA approval of pretomanid (2019) within this regimen — a paradigm shift
 
 ::: aside
-[@Conradie2020nixtb]
+Nix-TB is the trial that changed everything for the most resistant disease. A 6-month, three-drug, entirely oral regimen achieving \~90% success in XDR/failing-MDR patients who previously faced 18–24 months of toxic injectable-containing therapy with far worse outcomes. This is arguably the single most important advance in TB therapeutics in decades. The open question it left was linezolid dosing/toxicity — answered by ZeNix [@Conradie2020nixtb].
 :::
 
-::: notes
-Nix-TB is the trial that changed everything for the most resistant disease. A 6-month, three-drug, entirely oral regimen achieving \~90% success in XDR/failing-MDR patients who previously faced 18–24 months of toxic injectable-containing therapy with far worse outcomes. This is arguably the single most important advance in TB therapeutics in decades. The open question it left was linezolid dosing/toxicity — answered by ZeNix.
-:::
-
-## ZeNix — Optimizing the Linezolid Dose
+## ZeNix — Optimizing the linezolid dose
 
 <br>
 
@@ -731,14 +691,10 @@ Nix-TB is the trial that changed everything for the most resistant disease. A 6-
 - Reinforces: linezolid efficacy is retained at lower, safer exposure
 
 ::: aside
-[@Conradie2022zenix]
+ZeNix is the practical companion to Nix-TB: it answered "how much linezolid, for how long?" and showed that the lower 600 mg dose for the shorter duration keeps efficacy while sharply cutting the toxicity that limited the original regimen. This is why current BPaL uses 600 mg. It is a model of dose-optimization trials making an effective-but-toxic drug tolerable [@Conradie2022zenix].
 :::
 
-::: notes
-ZeNix is the practical companion to Nix-TB: it answered "how much linezolid, for how long?" and showed that the lower 600 mg dose for the shorter duration keeps efficacy while sharply cutting the toxicity that limited the original regimen. This is why current BPaL uses 600 mg. It is a model of dose-optimization trials making an effective-but-toxic drug tolerable.
-:::
-
-## BPaLM — TB-PRACTECAL and the New Standard
+## BPaLM — TB-PRACTECAL and the new standard
 
 <br>
 
@@ -748,11 +704,7 @@ ZeNix is the practical companion to Nix-TB: it answered "how much linezolid, for
 - Endorsed in the **2025 ATS/CDC/ERS/IDSA** update
 
 ::: aside
-[@Nyangwa2022; @Saukkonen2025]
-:::
-
-::: notes
-This is the headline practice change for MDR/RR-TB. TB-PRACTECAL took BPaL, added moxifloxacin, and showed superiority — not just non-inferiority — to the old long regimen, on both efficacy and safety. WHO's 2022 update made BPaLM the preferred 6-month regimen for most RR/MDR-TB where fluoroquinolone susceptibility is present; BPaL (without moxifloxacin) is the fallback when FQ resistance or intolerance applies. So the modern MDR pathway is: confirm FQ susceptibility → BPaLM for 6 months, all oral. Compare that to the injectable-laden 18-24 month regimens of a decade ago.
+This is the headline practice change for MDR/RR-TB. TB-PRACTECAL took BPaL, added moxifloxacin, and showed superiority — not just non-inferiority — to the old long regimen, on both efficacy and safety. WHO's 2022 update made BPaLM the preferred 6-month regimen for most RR/MDR-TB where fluoroquinolone susceptibility is present; BPaL (without moxifloxacin) is the fallback when FQ resistance or intolerance applies. So the modern MDR pathway is: confirm FQ susceptibility → BPaLM for 6 months, all oral. Compare that to the injectable-laden 18-24 month regimens of a decade ago [@Nyangwa2022; @Saukkonen2025].
 :::
 
 ## endTB — More All-Oral Options
@@ -764,14 +716,10 @@ This is the headline practice change for MDR/RR-TB. TB-PRACTECAL took BPaL, adde
 - The observational endTB analysis: adding delamanid to three strong drugs added **little** — regimen strength matters more than drug count
 
 ::: aside
-[@Guglielmetti2025endtb; @Rodriguez2023endtb]
+endTB matters because it broadens the toolkit beyond BPaLM: several 9-month all-oral regimens work, giving flexibility when a patient cannot take a component of BPaLM or when local drug availability differs. The observational companion analysis makes a subtle but important point — once you have three genuinely effective drugs, bolting on a fourth (delamanid) adds little. That reframes regimen design around a few strong drugs rather than maximizing the count, which is the older MDR philosophy [@Guglielmetti2025endtb; @Rodriguez2023endtb].
 :::
 
-::: notes
-endTB matters because it broadens the toolkit beyond BPaLM: several 9-month all-oral regimens work, giving flexibility when a patient cannot take a component of BPaLM or when local drug availability differs. The observational companion analysis makes a subtle but important point — once you have three genuinely effective drugs, bolting on a fourth (delamanid) adds little. That reframes regimen design around a few strong drugs rather than maximizing the count, which is the older MDR philosophy.
-:::
-
-## WHO Drug Groupings — Still Useful for Individualization
+## WHO Drug Groupings — Still ueful for individualization
 
 <br>
 
@@ -782,14 +730,10 @@ endTB matters because it broadens the toolkit beyond BPaLM: several 9-month all-
 | **C** (fill/complete the regimen) | Ethambutol, delamanid, pyrazinamide, imipenem–cilastatin/meropenem, amikacin, ethionamide, PAS |
 
 ::: aside
-[@WHO2022mod4]
+When a standardised 6-month regimen (BPaLM) cannot be used — extensive resistance, intolerance, drug interactions, pregnancy — you individualise a longer regimen using the A/B/C hierarchy: all three Group A drugs, then add Group B, then complete with Group C. The grouping ranks drugs by efficacy-to-toxicity. Note that the injectables and the old oral bacteriostatics have fallen to Group C — the bottom of the priority list — confirming the whole trajectory of this lecture. This framework is what you reach for when the patient does not fit the standard shortened regimen [@WHO2022mod4].
 :::
 
-::: notes
-When a standardised 6-month regimen (BPaLM) cannot be used — extensive resistance, intolerance, drug interactions, pregnancy — you individualise a longer regimen using the A/B/C hierarchy: all three Group A drugs, then add Group B, then complete with Group C. The grouping ranks drugs by efficacy-to-toxicity. Note that the injectables and the old oral bacteriostatics have fallen to Group C — the bottom of the priority list — confirming the whole trajectory of this lecture. This framework is what you reach for when the patient does not fit the standard shortened regimen.
-:::
-
-## Drug-Resistant TB — The Take-Home Logic
+## Drug-Resistant TB — The take-home logic
 
 <br>
 
@@ -800,16 +744,12 @@ When a standardised 6-month regimen (BPaLM) cannot be used — extensive resista
 - Injectables and old bacteriostatics are now **last-resort**
 
 ::: aside
-[@Saukkonen2025; @Nyangwa2022]
-:::
-
-::: notes
-This is the summary algorithm for MDR-TB in 2026. The whole approach is now molecular-diagnosis-led and oriented toward the shortest, all-oral, most tolerable regimen the resistance pattern allows. It is a dramatic simplification and improvement over the era most textbooks describe. If you internalise one pathway from the DR-TB section, make it this slide.
+This is the summary algorithm for MDR-TB in 2026. The whole approach is now molecular-diagnosis-led and oriented toward the shortest, all-oral, most tolerable regimen the resistance pattern allows. It is a dramatic simplification and improvement over the era most textbooks describe. If you internalise one pathway from the DR-TB section, make it this slide [@Saukkonen2025; @Nyangwa2022].
 :::
 
 # Cross-Cutting Principles {background-color="#b20e10"}
 
-## Co-Treating TB and HIV
+## Co-treating TB and HIV
 
 <br>
 
@@ -819,31 +759,26 @@ This is the summary algorithm for MDR-TB in 2026. The whole approach is now mole
 - Watch for **IRIS**; continue both therapies through it
 
 ::: aside
-[@NIH_ARV; @CDC_TBHIV]
+The timing rule is high-yield: earlier ART (within 2 weeks) for the most immunosuppressed reduces mortality, but for TB meningitis early ART increases harm (IRIS in a closed space) so that is the exception. The pharmacology hazard is the rifamycin–ART interaction: rifampin wrecks PI levels (switch to rifabutin), and dolutegravir needs twice-daily dosing with rifampin. The nitroimidazoles (pretomanid, delamanid) and bedaquiline have gentler interaction profiles, which is an advantage in DR-TB/HIV co-treatment, though bedaquiline levels still fall with rifampin (not usually co-administered anyway) [@NIH_ARV; @CDC_TBHIV].
 :::
 
-::: notes
-The timing rule is high-yield: earlier ART (within 2 weeks) for the most immunosuppressed reduces mortality, but for TB meningitis early ART increases harm (IRIS in a closed space) so that is the exception. The pharmacology hazard is the rifamycin–ART interaction: rifampin wrecks PI levels (switch to rifabutin), and dolutegravir needs twice-daily dosing with rifampin. The nitroimidazoles (pretomanid, delamanid) and bedaquiline have gentler interaction profiles, which is an advantage in DR-TB/HIV co-treatment, though bedaquiline levels still fall with rifampin (not usually co-administered anyway).
-:::
-
-## Therapeutic Drug Monitoring
+## Therapeutic drug monitoring
 
 <br>
 
 - Not routine for most patients, but **essential** where toxicity/efficacy is level-dependent:
+
   - **Amikacin** (avoid ototoxicity), **cycloserine** (avoid CNS toxicity)
+
 - Consider TDM for: malabsorption, HIV, diabetes, renal/hepatic dysfunction, slow response, drug interactions
+
 - Emerging **less-invasive matrices** (dried blood spots, urine, saliva, hair) may widen feasibility
 
-::: aside
-[@Rao2023tdm]
-:::
-
 ::: notes
-TDM is targeted, not universal — the guidelines are clear it cannot predict cure but it enables rational dose adjustment when it matters. For amikacin and cycloserine it is effectively mandatory to stay in the therapeutic window. Reach for it when absorption or clearance is unpredictable (advanced HIV, diabetes, organ dysfunction) or when a patient responds slowly. The newer sampling matrices are worth knowing about because they could make TDM feasible in high-burden, low-resource settings where venous sampling logistics are the barrier.
+TDM is targeted, not universal — the guidelines are clear it cannot predict cure but it enables rational dose adjustment when it matters. For amikacin and cycloserine it is effectively mandatory to stay in the therapeutic window. Reach for it when absorption or clearance is unpredictable (advanced HIV, diabetes, organ dysfunction) or when a patient responds slowly. The newer sampling matrices are worth knowing about because they could make TDM feasible in high-burden, low-resource settings where venous sampling logistics are the barrier [@Rao2023tdm].
 :::
 
-## QT Stewardship in Modern Regimens
+## QT stewardship in modern regimens
 
 <br>
 
@@ -852,11 +787,11 @@ TDM is targeted, not universal — the guidelines are clear it cannot predict cu
 - Avoid other QT-prolonging co-medications where possible; caution with hypothyroidism (ethionamide)
 - Individual drug risk is modest — the **additive** burden is the practical concern
 
-::: notes
+::: aside
 This deserves its own slide because it is the recurring safety theme of the novel-regimen era. No single agent's QT effect is dramatic, but BPaLM plus clofazimine can stack three or four QT-prolonging drugs, so monitoring and electrolyte management become routine. Practically: baseline ECG, correct and maintain potassium and magnesium, avoid piling on other QT offenders (some antiemetics, azoles, etc.), and remember ethionamide-induced hypothyroidism can itself prolong QT.
 :::
 
-## Special Populations
+## Special populations
 
 <br>
 
@@ -866,11 +801,7 @@ This deserves its own slide because it is the recurring safety theme of the nove
 - **Children:** shorter 4-month regimen for non-severe disease; weight-band dosing; pediatric FDCs
 
 ::: aside
-[@Saukkonen2025]
-:::
-
-::: notes
-A consolidated special-populations slide. In pregnancy the first-line orals are broadly safe (with pyridoxine for INH); the transatlantic PZA difference is a nice teaching nuance — WHO and Europe use it routinely, the US historically deferred it, meaning US pregnant patients often needed 9 months. Avoid aminoglycosides (fetal ototoxicity) and, where alternatives exist, fluoroquinolones. Renal failure mainly affects the renally cleared drugs (PZA, ethambutol, levofloxacin, aminoglycosides) — dose after dialysis. In hepatic disease the INH/rifampin/PZA trio is the concern, and PZA-sparing regimens may be prudent. Paediatrics now has its own shortened option for non-severe disease.
+A consolidated special-populations slide. In pregnancy the first-line orals are broadly safe (with pyridoxine for INH); the transatlantic PZA difference is a nice teaching nuance — WHO and Europe use it routinely, the US historically deferred it, meaning US pregnant patients often needed 9 months. Avoid aminoglycosides (fetal ototoxicity) and, where alternatives exist, fluoroquinolones. Renal failure mainly affects the renally cleared drugs (PZA, ethambutol, levofloxacin, aminoglycosides) — dose after dialysis. In hepatic disease the INH/rifampin/PZA trio is the concern, and PZA-sparing regimens may be prudent. Paediatrics now has its own shortened option for non-severe disease [@Saukkonen2025].
 :::
 
 ## A European / Italian Perspective
@@ -882,13 +813,13 @@ A consolidated special-populations slide. In pregnancy the first-line orals are 
 - WHO **BPaLM/BPaL** operational guidance is the primary framework for RR/MDR-TB in Europe
 - Confirm local availability of bedaquiline, pretomanid, delamanid, and rapid FQ DST
 
-::: notes
-For this audience, ground the guidance in our reality: we work to EUCAST, not CLSI, breakpoints, and our MDR caseload is skewed by imported strains from high-MDR settings with more fluoroquinolone resistance — which directly affects whether BPaLM or BPaL is appropriate. The WHO operational handbook, not the US guideline, is our day-to-day reference. And access to the novel drugs and to rapid fluoroquinolone susceptibility testing shapes what is actually deliverable. This is where the pharmacology meets our clinic.
+::: aside
+EUCAST, not CLSI, breakpoints, and our MDR caseload is skewed by imported strains from high-MDR settings with more fluoroquinolone resistance — which directly affects whether BPaLM or BPaL is appropriate. The WHO operational handbook, not the US guideline, is our day-to-day reference. And access to the novel drugs and to rapid fluoroquinolone susceptibility testing shapes what is actually deliverable. This is where the pharmacology meets our clinic.
 :::
 
 # A Brief Tour: NTM Drug Therapy {background-color="#b20e10"}
 
-## NTM — A Different Pharmacologic World
+## NTM — A different pharmacologic world
 
 <br>
 
@@ -898,14 +829,10 @@ For this audience, ground the guidance in our reality: we work to EUCAST, not CL
 - Distinguish **infection from colonization** before treating (especially respiratory isolates)
 
 ::: aside
-[@Griffith2007; @Daley2020ntm]
+NTM susceptibility is highly species-dependent and in-vitro results predict clinical response for only a handful of drugs (macrolides and amikacin for MAC). Treatment is longer, multidrug, and outcomes are more modest. The commonest error is treating colonization — a single positive respiratory culture in an asymptomatic patient is often not disease. A full NTM lecture is separate; here I want the pharmacologic contrasts [@Griffith2007; @Daley2020ntm].
 :::
 
-::: notes
-I include NTM as a brief coda because the drugs overlap but the rules differ sharply. NTM susceptibility is highly species-dependent and in-vitro results predict clinical response for only a handful of drugs (macrolides and amikacin for MAC). Treatment is longer, multidrug, and outcomes are more modest. The commonest error is treating colonization — a single positive respiratory culture in an asymptomatic patient is often not disease. A full NTM lecture is separate; here I want the pharmacologic contrasts.
-:::
-
-## NTM — Macrolides and Amikacin
+## NTM — Macrolides and amikacin
 
 <br>
 
@@ -915,14 +842,10 @@ I include NTM as a brief coda because the drugs overlap but the rules differ sha
 - Companion drugs (ethambutol, rifamycin for MAC) protect the macrolide from resistance
 
 ::: aside
-[@Daley2020ntm; @Griffith2007]
+For MAC pulmonary disease the standard is a macrolide + ethambutol + a rifamycin, three times weekly for nodular-bronchiectatic disease or daily for cavitary/severe. The single most important rule mirrors TB: never expose the macrolide unprotected, because a 23S rRNA mutation causes irreversible macrolide resistance and is associated with treatment failure and mortality. Liposomal inhaled amikacin (ALIS) is the guideline add-on for refractory MAC. Ethambutol here is again the resistance-protecting companion [@Daley2020ntm; @Griffith2007].
 :::
 
-::: notes
-For MAC pulmonary disease the standard is a macrolide + ethambutol + a rifamycin, three times weekly for nodular-bronchiectatic disease or daily for cavitary/severe. The single most important rule mirrors TB: never expose the macrolide unprotected, because a 23S rRNA mutation causes irreversible macrolide resistance and is associated with treatment failure and mortality. Liposomal inhaled amikacin (ALIS) is the guideline add-on for refractory MAC. Ethambutol here is again the resistance-protecting companion.
-:::
-
-## NTM — The M. abscessus Problem and New Agents
+## NTM — The *M. abscessus* problem and new agents
 
 <br>
 
@@ -932,16 +855,12 @@ For MAC pulmonary disease the standard is a macrolide + ethambutol + a rifamycin
 - Outcomes remain poor — a major unmet need
 
 ::: aside
-[@Daley2020ntm]
-:::
-
-::: notes
-M. abscessus is the hardest common NTM: the inducible erm(41) gene (functional in subsp. abscessus and bolletii, truncated in massiliense) means apparent macrolide susceptibility can be lost on exposure, so the macrolide may be unreliable. Treatment is prolonged, IV-heavy, and often disappointing. The newer tetracyclines (omadacycline, eravacycline — oral omadacycline is attractive), tedizolid, clofazimine, and synergistic dual β-lactam combinations are areas of active investigation but with limited trial evidence. This is where NTM therapeutics most resembles the pre-modern TB era — toxic, long, and uncertain.
+M. abscessus is the hardest common NTM: the inducible erm(41) gene (functional in subsp. abscessus and bolletii, truncated in massiliense) means apparent macrolide susceptibility can be lost on exposure, so the macrolide may be unreliable. Treatment is prolonged, IV-heavy, and often disappointing. The newer tetracyclines (omadacycline, eravacycline — oral omadacycline is attractive), tedizolid, clofazimine, and synergistic dual β-lactam combinations are areas of active investigation but with limited trial evidence. This is where NTM therapeutics most resembles the pre-modern TB era — toxic, long, and uncertain [@Daley2020ntm].
 :::
 
 # Summary {background-color="#b20e10"}
 
-## Key Takeaways
+## Key takeaways
 
 <br>
 
@@ -952,11 +871,7 @@ M. abscessus is the hardest common NTM: the inducible erm(41) gene (functional i
 - **Bedaquiline, pretomanid, linezolid** (± moxifloxacin) are the new core drugs
 - TDM and rapid molecular DST individualize therapy
 
-::: notes
-Close on the conceptual arc: the pharmacology (populations, sterilizing activity, resistance arithmetic) is stable and explains everything, while the regimens have changed dramatically toward shorter, all-oral, better-tolerated therapy. If the audience leaves with the population map, the RIPE-to-4-month shift, the BPaL/BPaLM revolution, and the two safety themes (rifamycin interactions, QT stacking), they have the modern essentials.
-:::
-
-## Selected Key References
+## Selected key references
 
 <br>
 
@@ -967,19 +882,8 @@ Close on the conceptual arc: the pharmacology (populations, sterilizing activity
 - WHO Consolidated Guidelines, Module 4, 2022 [@WHO2022mod4]
 - Nahid et al. 2019 — DR-TB guideline [@Nahid2019drtb]
 
-::: notes
+::: aside
 These six are the modern anchors. The Saukkonen 2025 guideline is the current one-stop reference; TB-PRACTECAL and the Nix-TB/ZeNix pair are the landmark DR-TB trials; Study 31 is the DS-TB shortening trial; and the WHO Module 4 plus the 2019 DR-TB guideline give the programmatic framework. The full reference list follows the deck. Thank you — questions.
 :::
 
-## Discussion
-
-<br>
-
-- Which patients in **your** practice would now qualify for the 4-month DS-TB regimen?
-- How do you handle **fluoroquinolone susceptibility testing** turnaround in deciding BPaLM vs BPaL?
-- Where do the **old second-line orals** still have a role?
-- QT monitoring logistics for all-oral DR-TB regimens in your setting
-
-::: notes
-Open discussion prompts tuned to a specialist audience — these push beyond recall into applied regimen design and the operational constraints (DST turnaround, ECG logistics, drug access) that actually determine what we can deliver in Padova. Use whichever lands with the room.
-:::
+## References
