@@ -58,6 +58,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 # Foundations {background-color="#b20e10"}
 
 ## The global burden — Why this still matters
+
 <br>
 
 ::::: columns
@@ -109,7 +110,7 @@ The textbook definition of XDR (INH + RIF + any FQ + a second-line injectable) i
 
 <br>
 
-![](anti-tb-drugs-images/tbkilling.png){fig-align="center" width="800"}
+![](anti-tb-drugs-images/revised_killing.png){fig-align="center" width="800"}
 
 ::: aside
 The cavity population is huge (10^8–10^10 organisms), extracellular, rapidly dividing, acid-neutral pH — this is where resistance is selected and where bactericidal activity matters most. The intracellular and caseous populations are where *sterilizing* activity — the ability to prevent relapse — is decided.
@@ -120,7 +121,7 @@ The cavity population is huge (10^8–10^10 organisms), extracellular, rapidly d
 <br>
 
 | Population / niche | Best drugs |
-|----|----|
+|------------------------------------|------------------------------------|
 | Rapidly replicating, extracellular (cavity) | **Isoniazid** (early kill), rifampin |
 | Intracellular, acidic phagolysosome | **Pyrazinamide**, rifampin |
 | Near-dormant, caseous necrotic foci | **Rifampin** (sterilizing), pyrazinamide |
@@ -161,7 +162,7 @@ Because resistant mutants pre-exist, monotherapy simply selects them — \>70% o
 <br>
 
 | Drug | Target / mechanism | Resistance gene |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Isoniazid | Mycolic acid synthesis (pro-drug via KatG) | *katG*, *inhA* |
 | Rifampin | RNA polymerase β-subunit | *rpoB* |
 | Pyrazinamide | Pyrazinoic acid (pro-drug via PncA) | *pncA* |
@@ -194,7 +195,7 @@ The best regimen fails without adherence, and malabsorption is an under-recognis
 <br>
 
 | Drug | Mechanism | Resistance gene | Signature toxicity |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Isoniazid (H) | Inhibits mycolic acid synthesis | *katG*, *inhA* | Hepatitis, neuropathy |
 | Rifampin (R) | Inhibits DNA-dependent RNA polymerase | *rpoB* | Hepatitis, CYP induction |
 | Pyrazinamide (Z) | Prodrug → pyrazinoic acid (acid pH) | *pncA* | Hepatitis, hyperuricemia |
@@ -725,7 +726,7 @@ endTB matters because it broadens the toolkit beyond BPaLM: several 9-month all-
 <br>
 
 | Group | Drugs |
-|----|----|
+|------------------------------------|------------------------------------|
 | **A** (all three, unless contraindicated) | Levofloxacin/**moxifloxacin**, **bedaquiline**, **linezolid** |
 | **B** (add one or both) | **Clofazimine**, cycloserine/terizidone |
 | **C** (fill/complete the regimen) | Ethambutol, delamanid, pyrazinamide, imipenem–cilastatin/meropenem, amikacin, ethionamide, PAS |

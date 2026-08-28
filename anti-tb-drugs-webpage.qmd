@@ -57,7 +57,7 @@ The older XDR definition (MDR plus a fluoroquinolone plus a second-line **inject
 
 The single most useful conceptual model is that *M. tuberculosis* exists in the host as distinct sub-populations occupying different microenvironments, and that drugs differ in which population they reach and kill (Table @tbl-niches). Regimen design is fundamentally the effort to hit all populations simultaneously (@fig-populations).
 
-![Bacillary sub-populations of *M. tuberculosis* and the microenvironments they occupy. The cavity population is huge (10⁸–10¹⁰ organisms), extracellular, and rapidly dividing — where resistance is selected and bactericidal activity matters most. The intracellular and caseous populations are where sterilizing activity (relapse prevention) is decided.](anti-tb-drugs-images/tbkilling.png){#fig-populations fig-align="center" width="80%"}
+![](anti-tb-drugs-images/revised_killing.png){fig-align="center"}
 
 | Population / niche | Best drugs |
 |------------------------------------|------------------------------------|
@@ -66,7 +66,7 @@ The single most useful conceptual model is that *M. tuberculosis* exists in the 
 | Near-dormant persisters in caseous necrotic foci | Rifampin (sterilizing), pyrazinamide |
 | Companion / resistance protection | Ethambutol |
 
-: Antituberculous drugs mapped to bacillary sub-populations {#tbl-niches}
+: Antituberculous drugs mapped to bacillary sub-populations
 
 ### Bactericidal versus Sterilizing Activity
 
@@ -194,8 +194,6 @@ Rifapentine has a long half-life and — unlike rifampin — increased bioavaila
 
 ## Second-Line and Repurposed Agents
 
-
-
 ### Fluoroquinolones
 
 Moxifloxacin and levofloxacin inhibit DNA gyrase (*gyrA*), are bactericidal with excellent tissue and CNS penetration, and are now Group A drugs central to drug-resistant regimens; the older ciprofloxacin and ofloxacin are too weak and should not be counted as effective [@Ginsburg2003; @Nahid2019drtb]. Fluoroquinolone resistance defines pre-XDR-TB, so susceptibility testing is critical before regimen construction. The principal safety concern is QT-interval prolongation (moxifloxacin more than levofloxacin), additive with bedaquiline, clofazimine, and delamanid; other adverse effects include tendinopathy, dysglycemia, and CNS effects. Absorption is reduced by divalent cations, which must be separated by at least two hours.
@@ -235,7 +233,6 @@ Bedaquiline is a diarylquinoline that inhibits mycobacterial ATP synthase — a 
 Both nitroimidazoles are bioreductively activated to generate reactive species damaging mycolic acid synthesis and respiration, are active against replicating and non-replicating bacilli, and have low interaction potential (no rifampin-like induction) [@Gils2022; @Gler2012]. **Pretomanid is approved only as part of the BPaL/BPaLM combination** and should not be used as a standalone or substitutable drug. Delamanid received earlier EMA conditional approval but its phase 3 efficacy signal was weaker, and an endTB observational analysis found little added value when delamanid was appended to three already-strong drugs [@Rodriguez2023endtb]; it also prolongs QT.
 
 ## Modern Regimens for Drug-Resistant TB
-
 
 ### BPaL and ZeNix
 
