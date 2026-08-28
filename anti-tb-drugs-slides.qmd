@@ -58,6 +58,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 # Foundations {background-color="#b20e10"}
 
 ## The global burden — Why this still matters
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -440,12 +441,12 @@ Hr-TB is a common trap. Because molecular assays often report rifampin status fi
 - Watch for the drug-specific toxicities: hepatitis, neuropathy, optic/ocular, QT, cytopenias
 
 ::: aside
-The 2-month culture is the key milestone: persistent culture-positivity at 2 months (especially with baseline cavitation) predicts relapse and drives extension of the continuation phase to 7 months. Monitoring is otherwise clinical and toxicity-directed — there is no need for routine biochemical monitoring in low-risk patients, but there is every reason for structured monthly review and symptom-triggered testing. Re-check weight and adjust weight-based doses as patients recover.
+The 2-month culture is the key milestone: persistent culture-positivity at 2 months (especially with baseline cavitation) predicts relapse and drives extension of the continuation phase to 7 months. Monitoring is otherwise clinical and toxicity-directed — there is no need for routine biochemical monitoring in low-risk patients, but there is every reason for structured monthly review and symptom-triggered testing. Re-check weight and adjust weight-based doses as patients recover. DST- drug susceptibility testing.
 :::
 
-# Shortening Therapy: The 4-Month Regimen {background-color="#b20e10"}
+# Shortening Therapy: <br> The 4-Month Regimen {background-color="#b20e10"}
 
-## Study 31 — A 4-Month rifapentine–Mmxifloxacin regimen
+## Study 31 — A 4-Month rifapentine–Moxifloxacin regimen
 
 <br>
 
@@ -666,7 +667,7 @@ The mortality signal in the small early trial drove the black box, but it has no
 Pretomanid is licensed strictly within the BPaL(M) combination — it is not a drug you mix and match, and it should not be used outside its studied regimens. Delamanid came first (EMA conditional approval) but its phase 3 data were equivocal (the endTB observational work suggests limited added value on top of strong Group A drugs), and it prolongs QT. Both are rifampin-interaction-light because they do not induce CYP the way rifamycins do — useful in HIV co-treatment. Their exact mechanism remains incompletely defined but centres on radical generation and mycolic acid/respiration disruption [@Diacon2009; @Avorn2013].
 :::
 
-# Modern Regimens for Drug-Resistant TB {background-color="#b20e10"}
+# Modern Regimens for <br> Drug-Resistant TB {background-color="#b20e10"}
 
 ## BPaL — The Nix-TB breakthrough
 
