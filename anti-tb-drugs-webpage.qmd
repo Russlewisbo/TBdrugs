@@ -57,16 +57,16 @@ The older XDR definition (MDR plus a fluoroquinolone plus a second-line **inject
 
 The single most useful conceptual model is that *M. tuberculosis* exists in the host as distinct sub-populations occupying different microenvironments, and that drugs differ in which population they reach and kill (Table @tbl-niches). Regimen design is fundamentally the effort to hit all populations simultaneously (@fig-populations).
 
-![](anti-tb-drugs-images/revised_killing.png){fig-align="center"}
+![Lesion microenvironments of *M. tuberculosis*, with drug penetration by compartment (PK) and activity by bacillary metabolic state (PD). Penetration and pharmacodynamic activity are orthogonal: pyrazinamide penetrates caseum yet fails at neutral pH, while rifampin uniquely combines lesion penetration with sterilizing activity. No current drug reliably kills fully dormant, non-metabolising bacilli.](anti-tb-drugs-images/revised_killing.png){#fig-populations fig-align="center" width="100%"}
 
 | Population / niche | Best drugs |
 |------------------------------------|------------------------------------|
 | Rapidly replicating, extracellular (cavity walls) | Isoniazid (fastest early kill), rifampin |
 | Slowly/intermittently replicating, intracellular (acidic phagolysosome) | Pyrazinamide, rifampin |
-| Near-dormant persisters in caseous necrotic foci | Rifampin (sterilizing), pyrazinamide |
+| Near-dormant persisters in caseous necrotic foci | Rifampin (sterilizing), bedaquiline; pyrazinamide only at acid pH |
 | Companion / resistance protection | Ethambutol |
 
-: Antituberculous drugs mapped to bacillary sub-populations
+: Antituberculous drugs mapped to bacillary sub-populations {#tbl-niches}
 
 ### Bactericidal versus Sterilizing Activity
 
