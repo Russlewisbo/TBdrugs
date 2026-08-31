@@ -18,9 +18,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Introduction and Scope
 
-These notes accompany a 1.5-hour lecture on the pharmacology of antituberculous drugs for postgraduate infectious diseases specialists. The emphasis is on reasoning from mechanism, pharmacokinetics, and resistance biology to regimen design, and on the substantial changes in tuberculosis (TB) therapeutics since the reference textbook chapters most trainees studied.
-
-The therapeutic backbone of this material is Chapter 38, *Antimycobacterial Agents*, of *Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases*, supplemented with current guidance and pivotal trials verified against the primary literature — most importantly the 2025 ATS/CDC/ERS/IDSA treatment update [@Saukkonen2025], the WHO consolidated guidelines on drug-resistant TB [@WHO2022mod4], and the trials that established modern all-oral regimens [@Dorman2021; @Conradie2020nixtb; @Conradie2022zenix; @Nyangwa2022; @Guglielmetti2025endtb].
+The backbone of this material was drawn from Chapter 38, *Antimycobacterial Agents*, of *Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases*, supplemented with current guidance and pivotal trials verified against the primary literature — most importantly the 2025 ATS/CDC/ERS/IDSA treatment update [@Saukkonen2025], the WHO consolidated guidelines on drug-resistant TB [@WHO2022mod4], and the trials that established modern all-oral regimens [@Dorman2021; @Conradie2020nixtb; @Conradie2022zenix; @Nyangwa2022; @Guglielmetti2025endtb].
 
 ::: callout-note
 ## Perspective
