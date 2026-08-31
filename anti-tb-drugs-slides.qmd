@@ -7,6 +7,8 @@ lightbox:
 format:
   revealjs:
     theme: custom.scss
+    width: 1244
+    height: 700
     slide-number: true
     transition: fade
     lightbox: true
